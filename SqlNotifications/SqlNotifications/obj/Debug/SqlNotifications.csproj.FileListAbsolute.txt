@@ -1,0 +1,12 @@
+C:\Users\khale\Documents\GitHub\SQL_TABLE_DEPENDENCY_NODE_REACT_WS\SqlNotifications\SqlNotifications\bin\Debug\SqlNotifications.exe.config
+C:\Users\khale\Documents\GitHub\SQL_TABLE_DEPENDENCY_NODE_REACT_WS\SqlNotifications\SqlNotifications\bin\Debug\SqlNotifications.exe
+C:\Users\khale\Documents\GitHub\SQL_TABLE_DEPENDENCY_NODE_REACT_WS\SqlNotifications\SqlNotifications\bin\Debug\SqlNotifications.pdb
+C:\Users\khale\Documents\GitHub\SQL_TABLE_DEPENDENCY_NODE_REACT_WS\SqlNotifications\SqlNotifications\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\khale\Documents\GitHub\SQL_TABLE_DEPENDENCY_NODE_REACT_WS\SqlNotifications\SqlNotifications\bin\Debug\System.Data.SqlClient.dll
+C:\Users\khale\Documents\GitHub\SQL_TABLE_DEPENDENCY_NODE_REACT_WS\SqlNotifications\SqlNotifications\bin\Debug\TableDependency.SqlClient.dll
+C:\Users\khale\Documents\GitHub\SQL_TABLE_DEPENDENCY_NODE_REACT_WS\SqlNotifications\SqlNotifications\obj\Debug\SqlNotifications.csproj.AssemblyReference.cache
+C:\Users\khale\Documents\GitHub\SQL_TABLE_DEPENDENCY_NODE_REACT_WS\SqlNotifications\SqlNotifications\obj\Debug\SqlNotifications.csproj.SuggestedBindingRedirects.cache
+C:\Users\khale\Documents\GitHub\SQL_TABLE_DEPENDENCY_NODE_REACT_WS\SqlNotifications\SqlNotifications\obj\Debug\SqlNotifications.csproj.CoreCompileInputs.cache
+C:\Users\khale\Documents\GitHub\SQL_TABLE_DEPENDENCY_NODE_REACT_WS\SqlNotifications\SqlNotifications\obj\Debug\SqlNotifications.csproj.CopyComplete
+C:\Users\khale\Documents\GitHub\SQL_TABLE_DEPENDENCY_NODE_REACT_WS\SqlNotifications\SqlNotifications\obj\Debug\SqlNotifications.exe
+C:\Users\khale\Documents\GitHub\SQL_TABLE_DEPENDENCY_NODE_REACT_WS\SqlNotifications\SqlNotifications\obj\Debug\SqlNotifications.pdb
